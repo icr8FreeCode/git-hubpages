@@ -1,0 +1,9 @@
+.DS_Store
+_build/
+.vscode
+!.nojekyll
+.pyc
+pdf/
+.idea/
+__pycache__/
+docs/
