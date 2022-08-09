@@ -1,7 +1,7 @@
 +++
 title= "Part II - Exercises"
 date= 2022-02-17T14:54:25-06:00
-weight= 5
+weight= 4
 +++
 
 # Exercises: The SQL Sequel {#mysql-part2-exercises}
