@@ -1,0 +1,3 @@
+[submodule "edu-launchcode/themes/shadocs"]
+	path = edu-launchcode/themes/shadocs
+	url = https://github.com/jgazeau/shadocs.git

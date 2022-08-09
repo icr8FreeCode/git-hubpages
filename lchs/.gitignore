@@ -1,9 +1,0 @@
-.DS_Store
-_build/
-.vscode
-__pycache__
-docs/*
-!.nojekyll
-.pyc
-__pycache__/
-docs/

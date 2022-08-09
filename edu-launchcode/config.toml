@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'SQL Book'
+
+theme = "hugo-theme-relearn"
+
+canonifyURLs = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
