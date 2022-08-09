@@ -1,10 +1,7 @@
 +++
-title = "Studio"
+title = "Studio: Movies"
 weight = 4
 +++
-
-Studio: Movie SQLs
-==================
 
 In this studio, you will use space in *MySQL Workbench* to practice writing SQL
 queries to retrieve or modify information stored in an established database.

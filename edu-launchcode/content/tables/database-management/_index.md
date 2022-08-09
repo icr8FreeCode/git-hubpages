@@ -4,8 +4,6 @@ date= 2022-02-17T14:54:25-06:00
 weight= 2
 +++
 
-# Database Management
-
 Back in the
 `Database and SQL chapter exercises <mysql-part1-exercises>`{.interpreted-text
 role="ref"}, you created a new database in MySQL Workbench with one

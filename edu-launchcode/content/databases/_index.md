@@ -4,6 +4,5 @@ title = "Part I - Databases"
 weight = 1
 +++
 
-
-
-## Introduction 
+# Chapter Objectives 
+Chapter outline and learning objectives 

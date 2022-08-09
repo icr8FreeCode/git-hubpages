@@ -1,10 +1,10 @@
 +++
-title= "Part II - Exercises"
+title= "Exercise: Database Management"
 date= 2022-02-17T14:54:25-06:00
 weight= 4
 +++
 
-# Exercises: The SQL Sequel {#mysql-part2-exercises}
+
 
 In the previous chapter\'s exercises, we set up a database to store
 information about seeds. Let\'s expand that idea now that we know all

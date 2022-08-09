@@ -4,8 +4,6 @@ date= 2022-02-17T14:54:25-06:00
 weight= 5
 +++
 
-# Studio: A Library
-
 Word has gotten out about your amazing SQL skills! The head librarian at
 the local library asked if you could help with their database.
 

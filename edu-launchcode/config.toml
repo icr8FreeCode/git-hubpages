@@ -8,3 +8,10 @@ canonifyURLs = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+  [params]
+  alwaysopen = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  ordersectionsby = "weight"
+  collapsibleMenu = true

@@ -4,8 +4,6 @@ date= 2022-02-17T14:54:25-06:00
 weight= 1
 +++
 
-# Table Relationships
-
 As mentioned briefly in the last chapter, we want to keep the design of
 our database tables *clean*. Each table should deal with a very narrow
 set of data, and any specific piece of information should be stored in

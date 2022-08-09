@@ -4,8 +4,6 @@ date= 2022-02-17T14:54:25-06:00
 weight= 3
 +++
 
-# Complex Queries
-
 *Simple* SQL queries are commands that perform straightforward data
 retrieval, usually from only one table at a time. Examples of these
 queries include using the `SELECT` and `WHERE` keywords, and they narrow
