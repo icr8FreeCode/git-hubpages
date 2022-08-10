@@ -1,6 +1,6 @@
 +++
 title = "What are Joins"
-weight = 2
+weight = 3
 +++
 
 ## SQL Joins
