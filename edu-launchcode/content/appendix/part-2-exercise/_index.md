@@ -1,6 +1,6 @@
 +++
-title = "Part I Exercise Solutions"
-weight = 2
+title = "Part II: SQL Exercise Solutions"
+weight = 3
 +++
 
 

@@ -1,12 +1,11 @@
 +++
-title = "Part II Exercise Solutions"
-weight = 1
+title = "Part I: SQL Exercise Solutions"
+weight = 2
 +++
 
 .. _mysql-part1-exercise-solutions:
 
-Exercise Solutions: MySQL, Part 1
-=================================
+
 
 .. _mysql-part1-exercise-solutions-create:
 

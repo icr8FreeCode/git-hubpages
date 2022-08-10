@@ -1,7 +1,9 @@
 +++
-title = "Joins"
+title = "What are Joins"
 weight = 2
 +++
+
+## SQL Joins
 
 A **join** combines two tables into one result set. We can use joins
 when we want to query two tables at the same time. Whenever we join two

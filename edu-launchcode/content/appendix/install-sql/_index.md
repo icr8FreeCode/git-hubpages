@@ -1,16 +1,13 @@
 +++
 title = "Installing MySQL"
-weight = 3
+weight = 1
 +++
 
-
-Installing MySQL
-================
 
 .. _sql-installation:
 
 .. index:: ! SQL
-
+## Introduction
 A couple of chapters in this book cover SQL.
 Before we get started learning the ins and outs of the language, let's make sure we have everything properly installed!
 For this class, we will be using MySQL version 8.0.18, the most current version. Windows and Mac installations look a little different, so make sure you are following the appropriate directions for your machine.

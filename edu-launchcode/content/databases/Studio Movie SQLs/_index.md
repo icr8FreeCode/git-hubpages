@@ -1,15 +1,15 @@
 +++
 title = "Studio: Movies"
-weight = 4
+weight = 5
 +++
 
+## Intructions
 In this studio, you will use space in *MySQL Workbench* to practice writing SQL
 queries to retrieve or modify information stored in an established database.
 You will also explore the parallels between objects and database tables.
 
 
-Walkthrough
------------
+## Walkthrough
 
 Let's relate what you've learned about SQL to interact with a database called
 ``movie-buff`` that contains two tables---``movies`` and ``directors``.

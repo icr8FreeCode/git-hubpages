@@ -1,10 +1,9 @@
-<!-- +++
-title = "Queries"
-weight = 3
-+++ -->
++++
+title = "SQL Queries"
+weight = 2
++++
 
-SQL Queries
-===========
+## Introduction Queries
 
 .. index:: ! query, ! CRUD, ! result set
 

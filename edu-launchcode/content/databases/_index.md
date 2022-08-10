@@ -6,3 +6,5 @@ weight = 1
 
 # Chapter Objectives 
 Chapter outline and learning objectives 
+
+{{% children %}}

@@ -1,8 +1,9 @@
 +++
 title = "Exercises"
-weight = 3
+weight = 4
 +++
 
+## README
 In order to practice SQL commands, you must first set up a new database (model)
 in MySQL Workbench. In the program, each new model is called a *schema*.
 

@@ -4,8 +4,7 @@ date= 2022-02-17T14:54:25-06:00
 weight= 4
 +++
 
-
-
+## Introduction
 In the previous chapter\'s exercises, we set up a database to store
 information about seeds. Let\'s expand that idea now that we know all
 about foreign keys!
